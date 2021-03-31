@@ -16,3 +16,4 @@ const encode = function(sentence) {
 
     return result;
 }
+
